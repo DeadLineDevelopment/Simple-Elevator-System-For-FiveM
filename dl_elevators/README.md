@@ -1,5 +1,3 @@
-# wasabi_elevators
-
 This resource was created as a ESX/QBCore plug and play target based elevator script utilizing ox_lib.
 
 Features:
